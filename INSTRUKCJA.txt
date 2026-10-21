@@ -1,0 +1,49 @@
+WORK HOURS v6.6 - INSTALACJA NA WLASNYM GITHUBIE
+
+1. Zaloz konto na github.com (jesli nie masz) i zaloguj sie.
+2. Kliknij "+" w prawym gornym rogu -> "New repository".
+   Nazwa np. "godziny", zaznacz "Public", kliknij "Create repository".
+3. Na stronie nowego repo kliknij "uploading an existing file".
+4. Przeciagnij 4 pliki z tej paczki: index.html, manifest.json, sw.js, icon.svg
+   (pliki luzem, nie folder i nie zip). Kliknij "Commit changes".
+5. Wejdz w Settings -> Pages. W "Branch" wybierz "main" i "/ (root)", kliknij Save.
+6. Po 1-2 minutach appka bedzie pod adresem:
+   https://TWOJ-LOGIN.github.io/godziny/
+7. iPhone: otworz ten adres w Safari -> Udostepnij -> "Do ekranu poczatkowego".
+   Android: Chrome -> menu ⋮ -> "Dodaj do ekranu glownego".
+
+PIERWSZE URUCHOMIENIE
+- Kliknij kafelek "Wyplata netto" i wpisz stawke NOK/h oraz podatek %.
+- Dodawaj wpisy przyciskiem "+ Dodaj wpis": Zwykle godziny, Zmiana 10h, Chorobowe, BONUS.
+
+KOPIA ZAPASOWA (wazne!)
+Dane sa zapisane tylko w telefonie. Regularnie rob: Dane -> Eksport danych JSON
+i zapisz plik w Plikach / na Dysku. Przy zmianie telefonu: Dane -> Import danych JSON.
+
+AKTUALIZACJA
+Wgraj nowe pliki tak samo (Add file -> Upload files) i zatwierdz.
+Jesli telefon pokazuje stara wersje, usun ikone i dodaj ja ponownie z przegladarki.
+
+---------------------------------------------------------------
+
+WORK HOURS v6.6 - УСТАНОВКА НА СВОЁМ GITHUB
+
+1. Зарегистрируйтесь на github.com и войдите.
+2. Нажмите "+" вверху справа -> "New repository".
+   Имя, например "godziny", выберите "Public", нажмите "Create repository".
+3. На странице репозитория нажмите "uploading an existing file".
+4. Перетащите 4 файла: index.html, manifest.json, sw.js, icon.svg
+   (сами файлы, не папку и не zip). Нажмите "Commit changes".
+5. Settings -> Pages. В "Branch" выберите "main" и "/ (root)", нажмите Save.
+6. Через 1-2 минуты приложение будет доступно по адресу:
+   https://ВАШ-ЛОГИН.github.io/godziny/
+7. iPhone: откройте адрес в Safari -> Поделиться -> "На экран Домой".
+   Android: Chrome -> меню ⋮ -> "Добавить на главный экран".
+
+ПЕРВЫЙ ЗАПУСК
+- Нажмите плитку "Зарплата нетто" и введите ставку NOK/ч и налог %.
+- Язык меняется флажками вверху (🇷🇺).
+
+РЕЗЕРВНАЯ КОПИЯ (важно!)
+Данные хранятся только в телефоне. Регулярно делайте: Данные -> Экспорт данных JSON
+и сохраняйте файл. При смене телефона: Данные -> Импорт данных JSON.
